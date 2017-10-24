@@ -1,5 +1,9 @@
 # MatTableDynamic
 
+Example using Angular 4 with Dynamically sized tables using the material MatTableModule.
+This generates a table from a 2D array, populated with sequential numbers.
+@willshowell Thanks for the examples that helped me to build this.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.4.
 
 ## Development server
